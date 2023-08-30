@@ -1,0 +1,14 @@
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.AssemblyInfoInputs.cache
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.AssemblyInfo.cs
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.csproj.CoreCompileInputs.cache
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\bin\Debug\net7.0\Lucktext kanske gjord av ludwig langell.exe
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\bin\Debug\net7.0\Lucktext kanske gjord av ludwig langell.deps.json
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\bin\Debug\net7.0\Lucktext kanske gjord av ludwig langell.runtimeconfig.json
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\bin\Debug\net7.0\Lucktext kanske gjord av ludwig langell.dll
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\bin\Debug\net7.0\Lucktext kanske gjord av ludwig langell.pdb
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.dll
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\refint\Lucktext kanske gjord av ludwig langell.dll
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.pdb
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\Lucktext kanske gjord av ludwig langell.genruntimeconfig.cache
+C:\Users\ludwig.langell\Documents\Programmering\Lucktext kanske gjord av ludwig langell\Lucktext kanske gjord av ludwig langell\obj\Debug\net7.0\ref\Lucktext kanske gjord av ludwig langell.dll
