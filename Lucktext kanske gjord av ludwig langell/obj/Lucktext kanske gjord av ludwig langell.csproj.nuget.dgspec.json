@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj": {}
+    "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj": {
+    "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj",
+        "projectUniqueName": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj",
         "projectName": "Lucktext kanske gjord av ludwig langell",
-        "projectPath": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj",
+        "projectPath": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell.csproj",
         "packagesPath": "C:\\Users\\ludwig.langell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\obj\\",
+        "outputPath": "C:\\Users\\ludwig.langell\\Documents\\Programmering\\Lucktext kanske gjord av ludwig langell\\Lucktext kanske gjord av ludwig langell\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
